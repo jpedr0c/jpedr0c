@@ -32,8 +32,8 @@ Eu sou estudante da [42|Rio](https://42.rio), a Escola de Engenharia de Software
 
 ### GitHub Stats
 <div>
-<a href="http://www.github.com/JPedroc17"><img src="https://github-readme-stats.vercel.app/api?username=JPedroc17&show_icons=true&count_private=true&theme=vision-friendly-dark&include_all_commits=true" alt="JPedroc17's GitHub stats" /></a>
-<a href="http://www.github.com/JPedroc17"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JPedroc17&show_icons=true&count_private=true&theme=vision-friendly-dark&include_all_commits=true" /></a>
+<a href="http://www.github.com/jpedr0c"><img src="https://github-readme-stats.vercel.app/api?username=jpedr0c&show_icons=true&count_private=true&theme=vision-friendly-dark&include_all_commits=true" alt="jpedr0c's GitHub stats" /></a>
+<a href="http://www.github.com/jpedr0c"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jpedr0c&show_icons=true&count_private=true&theme=vision-friendly-dark&include_all_commits=true" /></a>
  </div>
  
  ##
