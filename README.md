@@ -8,7 +8,7 @@ Eu sou estudante da [42|Rio](https://42.rio), a Escola de Engenharia de Software
 
 * 📍 Eu moro no Rio de Janeiro, Brasil
 * 📚 Atualmente estou estudando a linguagem de programação C e JavaScript
-* ✉️   Contate-me através desse email: [jocardos@student.42.rio](mailto:jocardos@student.42.rio)
+* ✉️  Contate-me através desse email: [jpccarvalho2210@gmail.com](mailto:jpccarvalho2210@gmail.com)
 
  
 ##
