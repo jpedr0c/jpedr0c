@@ -1,6 +1,6 @@
 <h1 align="left">Oiii <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o João Pedro</h1>
 
-<p>Prazer, meu nome é João Pedro, tenho 20 anos e sou apaixonado por tecnologia, inovação, criatividade e programação. Tenho essa paixão desde pequeno mas foi quando entrei no Ensino Médio que ela foi aflorada, pois fiz técnico em Mecatrônica, desde então só me apaixono mais e mais. Eu tenho uma certa facilidade em aprender coisas novas, amo compartilhar/ensinar/explicar assuntos que eu sei para as pessoas, sendo mais gratificante quando elas aprendem por causa da minha explicação. Outra característica minha é que eu estou sempre aprendendo algo, gosto sempre de ter a sensação de estar evoluindo.</p>
+<p>Eu tenho 20 anos e sou apaixonado por tecnologia, inovação, criatividade e programação. Tenho essa paixão desde pequeno mas foi quando entrei no Ensino Médio que ela foi aflorada, pois fiz técnico em Mecatrônica, desde então só me apaixono mais e mais. Eu tenho uma certa facilidade em aprender coisas novas, amo compartilhar/ensinar/explicar assuntos que eu sei para as pessoas, sendo mais gratificante quando elas aprendem por causa da minha explicação. Outra característica minha é que eu estou sempre aprendendo algo, gosto sempre de ter a sensação de estar evoluindo.</p>
 
 > Uma expressão que levo para a minha vida, pois indica evolução constante, é *Kaizen - "Melhor do que ontem, pior do que amanhã"*.
 
