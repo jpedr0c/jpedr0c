@@ -1,4 +1,4 @@
-<h1 align="left">Oiii <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o João Pedro</h1>
+<h1 align="left">Hi<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, my name is João Pedro</h1>
 
 <p>I'm 20 years old and passionate about technology, innovation, creativity and programming. I have had this passion since I was little, but it was when I entered high school that it came to light, because I became a Mechatronics technician, since then I only fall in love more. I have a certain ease in learning new things, I love sharing/teaching/explaining subjects that I know to people, being more rewarding when they learn because of my explanation. Another characteristic of mine is that I'm always learning something, I always like to feel that I'm evolving.</p>
 
