@@ -1,14 +1,15 @@
 <h1 align="left">Oiii <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o João Pedro</h1>
 
-<p>Eu tenho 20 anos e sou apaixonado por tecnologia, inovação, criatividade e programação. Tenho essa paixão desde pequeno mas foi quando entrei no Ensino Médio que ela foi aflorada, pois fiz técnico em Mecatrônica, desde então só me apaixono mais e mais. Eu tenho uma certa facilidade em aprender coisas novas, amo compartilhar/ensinar/explicar assuntos que eu sei para as pessoas, sendo mais gratificante quando elas aprendem por causa da minha explicação. Outra característica minha é que eu estou sempre aprendendo algo, gosto sempre de ter a sensação de estar evoluindo.</p>
+<p>I'm 20 years old and passionate about technology, innovation, creativity and programming. I have had this passion since I was little, but it was when I entered high school that it came to light, because I became a Mechatronics technician, since then I only fall in love more. I have a certain ease in learning new things, I love sharing/teaching/explaining subjects that I know to people, being more rewarding when they learn because of my explanation. Another characteristic of mine is that I'm always learning something, I always like to feel that I'm evolving.</p>
 
-> Uma expressão que levo para a minha vida, pois indica evolução constante, é *Kaizen - "Melhor do que ontem, pior do que amanhã"*.
+> 
+An expression that I take to my life, as it indicates constant evolution, is *Kaizen - "Change for good"*.
 
-Eu sou estudante da [42|Rio](https://42.rio), a Escola de Engenharia de Software que conta com [42 campus em 25 países](https://www.42network.org/42-schools/).
+I am a student at [42|Rio](https://42.rio), the School of Software Engineering that has [42 campuses in 25 countries](https://www.42network.org/42-schools/ ).
 
-* 📍 Eu moro no Rio de Janeiro, Brasil
-* 📚 Atualmente estou estudando a linguagem de programação C e JavaScript
-* ✉️  Contate-me através desse email: [jpccarvalho2210@gmail.com](mailto:jpccarvalho2210@gmail.com)
+* 📍 I live in Rio de Janeiro, Brazil
+* 📚 I'm currently studying the C programming language and JavaScript
+* ✉️ Contact me via this email: [jpccarvalho2210@gmail.com](mailto:jpccarvalho2210@gmail.com)
 
  
 ##
@@ -35,7 +36,7 @@ Eu sou estudante da [42|Rio](https://42.rio), a Escola de Engenharia de Software
  ### Social Media
  
  <div>
-  <a href="https://instagram.com/jpedroc17" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/jpedr0c" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:jocardos@student.42.rio"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jpedroc" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
