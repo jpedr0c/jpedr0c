@@ -24,15 +24,6 @@ Front-End Developer and student at [42|Rio](https://42.rio)
 
 ##
 
-### GitHub Stats
-<div>
-<a href="https://github.com/jpedr0c"><img src="https://github-readme-stats.vercel.app/api?username=jpedr0c&show_icons=true&count_private=true&theme=vision-friendly-dark" alt="jpedr0c's GitHub stats" /></a>
-<a href="https://github.com/jpedr0c"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jpedr0c&show_icons=true&count_private=true&theme=vision-friendly-dark&include_all_commits=true" /></a>
-<a href="https://github.com/jpedr0c"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpedr0c&layout=compact&theme=vision-friendly-dark" alt="jpedr0c's GitHub stats" /></a>
-</div>
- 
- ##
- 
  ### Social Media
  
  <div>
@@ -41,3 +32,14 @@ Front-End Developer and student at [42|Rio](https://42.rio)
   <a href = "mailto:jpccarvalho2210@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jpedroc" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+##
+
+### GitHub Stats
+<div>
+<a href="https://github.com/jpedr0c"><img src="https://github-readme-stats.vercel.app/api?username=jpedr0c&show_icons=true&count_private=true&theme=vision-friendly-dark" alt="jpedr0c's GitHub stats" /></a>
+<a href="https://github.com/jpedr0c"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jpedr0c&show_icons=true&count_private=true&theme=vision-friendly-dark&include_all_commits=true" /></a>
+<a href="https://github.com/jpedr0c"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpedr0c&layout=compact&theme=vision-friendly-dark" alt="jpedr0c's GitHub stats" /></a>
+</div>
+ 
+ ##
