@@ -26,7 +26,7 @@ I am a student at [42|Rio](https://42.rio), the School of Software Engineering t
 
 ### GitHub Stats
 <div>
-<a href="https://github.com/jpedr0c"><img src="https://github-readme-stats.vercel.app/api?username=jpedr0c&show_icons=true&count_private=true&theme=vision-friendly-dark&include_all_commits=true" alt="jpedr0c's GitHub stats" /></a>
+<a href="https://github.com/jpedr0c"><img src="https://github-readme-stats.vercel.app/api?username=jpedr0c&show_icons=true&count_private=true&theme=vision-friendly-dark" alt="jpedr0c's GitHub stats" /></a>
 <a href="https://github.com/jpedr0c"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jpedr0c&show_icons=true&count_private=true&theme=vision-friendly-dark&include_all_commits=true" /></a>
 <a href="https://github.com/jpedr0c"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpedr0c&layout=compact&theme=vision-friendly-dark" alt="jpedr0c's GitHub stats" /></a>
 </div>
@@ -37,6 +37,7 @@ I am a student at [42|Rio](https://42.rio), the School of Software Engineering t
  
  <div>
   <a href="https://instagram.com/jpedr0c" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:jocardos@student.42.rio"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://discord.com/users/Jo%C3%A3o%20Pedro%20%7C%20JP#6567" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href = "mailto:jpccarvalho2210@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jpedroc" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
