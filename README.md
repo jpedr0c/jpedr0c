@@ -1,16 +1,16 @@
-<h1 align="left">Hi<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, my name is João Pedro</h1>
+Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40px"> my name is João Pedro
+==================================================================================================================================
+
+Front-End Developer and student at [42|Rio](https://42.rio)
+------------------------------------------------
 
 <p>I'm 20 years old and passionate about technology, innovation, creativity and programming. I have had this passion since I was little, but it was when I entered high school that it came to light, because I became a Mechatronics technician, since then I only fall in love more. I have a certain ease in learning new things, I love sharing/teaching/explaining subjects that I know to people, being more rewarding when they learn because of my explanation. Another characteristic of mine is that I'm always learning something, I always like to feel that I'm evolving.</p>
 
-> 
-An expression that I take to my life, as it indicates constant evolution, is *Kaizen - "Change for good"*.
-
-I am a student at [42|Rio](https://42.rio), the School of Software Engineering that has [42 campuses in 25 countries](https://www.42network.org/42-schools/ ).
-
-* 📍 I live in Rio de Janeiro, Brazil
-* 📚 I'm currently studying the C programming language and JavaScript
-* ✉️ Contact me via this email: [jpccarvalho2210@gmail.com](mailto:jpccarvalho2210@gmail.com)
-
+* 🌍  I'm based in Brazil - Rio de Janeiro
+* ✉️  You can contact me at [jpccarvalho2210@gmail.com](mailto:jpccarvalho2210@gmail.com)
+* 🧠  I'm learning C and JavaScript
+* 🤝  I'm open to collaborating on interesting projects as a developer
+* ⚡  I love learning new things and always evolving.
  
 ##
 
