@@ -1,5 +1,6 @@
-Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40px"> my name is João Pedro
-==================================================================================================================================
+<!--Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40px"> my name is João Pedro-->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Marker+Hatch&size=30&duration=1500&pause=3000&color=D25E04&vCenter=true&width=435&height=30&lines=Hi%2C+my+name+is+Jo%C3%A3o+Pedro)](https://git.io/typing-svg)
+
 
 Front-End Developer and student at [42|Rio](https://42.rio)
 ------------------------------------------------
@@ -15,12 +16,18 @@ Front-End Developer and student at [42|Rio](https://42.rio)
 ##
 
 ### Stack
+<!--
 <div align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="40" height="40" alt="C" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="Javascript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" /></a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="40" alt="CSS3" /></a>
 </div>
+-->
+[![My Skills](https://skillicons.dev/icons?i=c)](https://docs.microsoft.com/en-us/cpp/?view=msvc-170)
+[![My Skills](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![My Skills](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
+[![My Skills](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
 ##
 
@@ -28,7 +35,6 @@ Front-End Developer and student at [42|Rio](https://42.rio)
  
  <div>
   <a href="https://instagram.com/jpedr0c" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.com/users/Jo%C3%A3o%20Pedro%20%7C%20JP#6567" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href = "mailto:jpccarvalho2210@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jpedroc" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
@@ -41,5 +47,3 @@ Front-End Developer and student at [42|Rio](https://42.rio)
 <a href="https://github.com/jpedr0c"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jpedr0c&show_icons=true&count_private=true&theme=vision-friendly-dark&include_all_commits=true" /></a>
 <a href="https://github.com/jpedr0c"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpedr0c&layout=compact&theme=vision-friendly-dark" alt="jpedr0c's GitHub stats" /></a>
 </div>
- 
- ##
