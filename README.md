@@ -5,26 +5,19 @@
 Front-End Developer and student at [42|Rio](https://42.rio)
 ------------------------------------------------
 
-<p>I'm 20 years old and passionate about technology, innovation, creativity and programming. I have had this passion since I was little, but it was when I entered high school that it came to light, because I became a Mechatronics technician, since then I only fall in love more. I have a certain ease in learning new things, I love sharing/teaching/explaining subjects that I know to people, being more rewarding when they learn because of my explanation. Another characteristic of mine is that I'm always learning something, I always like to feel that I'm evolving.</p>
+<p>I'm 21 years old and passionate about technology, innovation, creativity and programming. I have had this passion since I was little, but it was when I entered high school that it came to light, because I became a Mechatronics technician, since then I only fall in love more. I have a certain ease in learning new things, I love sharing/teaching/explaining subjects that I know to people, being more rewarding when they learn because of my explanation. Another characteristic of mine is that I'm always learning something, I always like to feel that I'm evolving.</p>
 
 * 🌍  I'm based in Brazil - Rio de Janeiro
 * ✉️  You can contact me at [jpccarvalho2210@gmail.com](mailto:jpccarvalho2210@gmail.com)
-* 🧠  I'm learning C and JavaScript
+* 🧠  I'm learning C, C++ and JavaScript
 * 🤝  I'm open to collaborating on interesting projects as a developer
 * ⚡  I love learning new things and always evolving.
  
 ##
 
 ### Stack
-<!--
-<div align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="40" height="40" alt="C" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="Javascript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" /></a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="40" alt="CSS3" /></a>
-</div>
--->
 [![My Skills](https://skillicons.dev/icons?i=c)](https://docs.microsoft.com/en-us/cpp/?view=msvc-170)
+[![My Skills](https://skillicons.dev/icons?i=cpp)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [![My Skills](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![My Skills](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 [![My Skills](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
