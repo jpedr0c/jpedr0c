@@ -24,19 +24,25 @@ Front-End Developer and student at [42|Rio](https://42.rio)
 
 ##
 
- ### Social Media
- 
- <div>
-  <a href="https://instagram.com/jpedr0c" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:jpccarvalho2210@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jpedroc" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+### 42 Stats
+<div>
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl31v6hcl001608mf7g699st4/stats?cursusId=21&coalitionId=undefined" alt="jocardos's 42 stats" /></a>
 </div>
 
 ##
 
 ### GitHub Stats
 <div>
-<a href="https://github.com/jpedr0c"><img src="https://github-readme-stats.vercel.app/api?username=jpedr0c&show_icons=true&count_private=true&theme=vision-friendly-dark" alt="jpedr0c's GitHub stats" /></a>
 <a href="https://github.com/jpedr0c"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jpedr0c&show_icons=true&count_private=true&theme=vision-friendly-dark&include_all_commits=true" /></a>
 <a href="https://github.com/jpedr0c"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpedr0c&layout=compact&theme=vision-friendly-dark" alt="jpedr0c's GitHub stats" /></a>
+</div>
+
+##
+
+ ### Social Media
+ 
+ <div>
+  <a href="https://instagram.com/jpedr0c" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:jpccarvalho2210@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jpedroc" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
