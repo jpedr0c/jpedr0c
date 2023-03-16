@@ -5,7 +5,7 @@
 Front-End Developer and student at [42|Rio](https://42.rio)
 ------------------------------------------------
 
-<p>I'm 21 years old and passionate about technology, innovation, creativity and programming. I have had this passion since I was little, but it was when I entered high school that it came to light, because I became a Mechatronics technician, since then I only fall in love more. I have a certain ease in learning new things, I love sharing/teaching/explaining subjects that I know to people, being more rewarding when they learn because of my explanation. Another characteristic of mine is that I'm always learning something, I always like to feel that I'm evolving.</p>
+<p>I'm 21 years old and passionate about technology, innovation, creativity and programming. I have had this passion since I was little, but it was when I entered high school that it came to light, because I became a Mechatronics technician, since then I only fell in love even more. I learn new things with a certain ease, I love sharing/teaching/explaining subjects that I know to people, it's rewarding when they learn from my explanation. Another characteristic of mine is that I'm always learning something, I always like to feel that I'm evolving.</p>
 
 * 🌍  I'm based in Brazil - Rio de Janeiro
 * ✉️  You can contact me at [jpccarvalho2210@gmail.com](mailto:jpccarvalho2210@gmail.com)
