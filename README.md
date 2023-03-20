@@ -9,7 +9,7 @@ Front-End Developer and student at [42|Rio](https://42.rio)
 
 * 🌍  I'm based in Brazil - Rio de Janeiro
 * ✉️  You can contact me at [jpccarvalho2210@gmail.com](mailto:jpccarvalho2210@gmail.com)
-* 🧠  I'm learning C, C++ and JavaScript
+* 🧠  I'm learning C++, JavaScript and Docker
 * 🤝  I'm open to collaborating on interesting projects as a developer
 * ⚡  I love learning new things and always evolving.
  
