@@ -9,7 +9,7 @@ Front-End Developer and student at [42|Rio](https://42.rio)
 
 * 🌍  I'm based in Brazil - Rio de Janeiro
 * ✉️  You can contact me at [jpccarvalho2210@gmail.com](mailto:jpccarvalho2210@gmail.com)
-* 🧠  I'm learning C++, JavaScript and Docker
+* 🧠  I'm learning C++, React.js and Node.js
 * 🤝  I'm open to collaborating on interesting projects as a developer
 * ⚡  I love learning new things and always evolving.
  
@@ -18,9 +18,12 @@ Front-End Developer and student at [42|Rio](https://42.rio)
 ### Stack
 [![My Skills](https://skillicons.dev/icons?i=c)](https://docs.microsoft.com/en-us/cpp/?view=msvc-170)
 [![My Skills](https://skillicons.dev/icons?i=cpp)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-[![My Skills](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![My Skills](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 [![My Skills](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[![My Skills](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![My Skills](https://skillicons.dev/icons?i=react)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[![My Skills](https://skillicons.dev/icons?i=express)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
 ##
 
