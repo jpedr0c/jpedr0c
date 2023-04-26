@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Marker+Hatch&size=30&duration=1500&pause=3000&color=D25E04&vCenter=true&width=435&height=30&lines=Hi%2C+my+name+is+Jo%C3%A3o+Pedro)](https://git.io/typing-svg)
 
 
-Front-End Developer and student at [42|Rio](https://42.rio)
+Junior FullStack Developer and student at [42|Rio](https://42.rio)
 ------------------------------------------------
 
 <p>I'm 21 years old and passionate about technology, innovation, creativity and programming. I have had this passion since I was little, but it was when I entered high school that it came to light, because I became a Mechatronics technician, since then I only fell in love even more. I learn new things with a certain ease, I love sharing/teaching/explaining subjects that I know to people, it's rewarding when they learn from my explanation. Another characteristic of mine is that I'm always learning something, I always like to feel that I'm evolving.</p>
