@@ -17,13 +17,14 @@ Junior FullStack Developer and student at [42|Rio](https://42.rio)
 
 ### Stack
 [![My Skills](https://skillicons.dev/icons?i=c)](https://docs.microsoft.com/en-us/cpp/?view=msvc-170)
-[![My Skills](https://skillicons.dev/icons?i=cpp)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[![My Skills](https://skillicons.dev/icons?i=cpp)](https://learn.microsoft.com/pt-br/cpp/cpp/?view=msvc-170)
 [![My Skills](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 [![My Skills](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [![My Skills](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![My Skills](https://skillicons.dev/icons?i=react)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-[![My Skills](https://skillicons.dev/icons?i=express)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[![My Skills](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/docs/)
+[![My Skills](https://skillicons.dev/icons?i=react)](https://legacy.reactjs.org/docs/getting-started.html)
+[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en/docs)
+[![My Skills](https://skillicons.dev/icons?i=express)](https://expressjs.com/pt-br/guide/routing.html)
 
 ##
 
