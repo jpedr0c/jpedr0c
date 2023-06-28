@@ -11,7 +11,7 @@ Junior FullStack Developer and student at [42|Rio](https://42.rio)
 * ✉️  You can contact me at [jpccarvalho2210@gmail.com](mailto:jpccarvalho2210@gmail.com)
 * 🧠  I'm learning C++, React.js and Node.js
 * 🤝  I'm open to collaborating on interesting projects as a developer
-* ⚡  I love learning new things and always evolving.
+* ⚡  I love learning new things and always evolving
  
 ##
 
