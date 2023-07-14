@@ -24,6 +24,7 @@ Junior FullStack Developer and student at [42|Rio](https://42.rio)
 [![My Skills](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![My Skills](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/docs/)
 [![My Skills](https://skillicons.dev/icons?i=react)](https://legacy.reactjs.org/docs/getting-started.html)
+[![My Skills](https://skillicons.dev/icons?i=next)](https://nextjs.org/docs)
 [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en/docs)
 [![My Skills](https://skillicons.dev/icons?i=express)](https://expressjs.com/pt-br/guide/routing.html)
 
@@ -39,7 +40,7 @@ Junior FullStack Developer and student at [42|Rio](https://42.rio)
 ### GitHub Stats
 <div>
 <a href="https://github.com/jpedr0c"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jpedr0c&show_icons=true&count_private=true&theme=vision-friendly-dark&include_all_commits=true" /></a>
-<a href="https://github.com/jpedr0c"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpedr0c&layout=compact&theme=vision-friendly-dark" alt="jpedr0c's GitHub stats" /></a>
+<a href="https://github.com/jpedr0c"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpedr0c&layout=compact&theme=vision-friendly-dark&hide=html,css,roff,objective-c,python,shell,perl" alt="jpedr0c's GitHub stats" /></a>
 </div>
 
 ##
