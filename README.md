@@ -30,13 +30,6 @@ Junior FullStack Developer and student at [42|Rio](https://42.rio)
 
 ##
 
-### 42 Stats
-<div>
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl31v6hcl001608mf7g699st4/stats?cursusId=21&coalitionId=345" alt="jocardos's 42 stats" /></a>
-</div>
-
-##
-
 ### GitHub Stats
 <div>
 <a href="https://github.com/jpedr0c"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jpedr0c&show_icons=true&count_private=true&theme=vision-friendly-dark&include_all_commits=true" /></a>
